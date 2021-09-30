@@ -10,6 +10,8 @@ nohup ./main {oec}/data {oec}/data_rocksdb/ &
 ```
 以下是转换效果及耗时：
 
+数据使用的是 mainnet-s0-20210915-5549923.tar.gz
+
 **转换前**
 ```
 du -sh data/*
